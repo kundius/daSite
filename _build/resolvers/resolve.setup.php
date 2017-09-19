@@ -155,6 +155,11 @@ $packages = array(
         'provider' => 'modstore.pro'
     ),
     array(
+        'name' => 'Jevix',
+        'version' => '1.2.2-pl',
+        'provider' => 'modstore.pro'
+    ),
+    array(
         'name' => 'Tickets',
         'version' => '1.6.16-pl',
         'provider' => 'modstore.pro'
